@@ -1,5 +1,20 @@
 ## Hi there 👋
-After serving in the military and working in engineering, I’m pushing into IT and tech with a mindset that comes from getting things done the hard way. I like digging into data, spotting the patterns most people miss, and turning that into fixes, builds, or cleaner systems. I’m aiming to be the person who can step in when things break, figure out what’s really going on, and put together solutions that actually hold up in the real world.
+After serving in the military and working in engineering, I’m pushing into IT and tech with a mindset that comes from getting things done with Integrity and discipline. I like digging into data, spotting the patterns most people miss, and turning that into fixes, builds, or cleaner systems.I am a Team leader that leads by example that aims to make people feel comfortable and valued.
 
-I’m working towards my CompTIA Date+
-I’m currently learning Microsoft Azura Data Fundamentals dP-900
+⬇️These are the military funded courses supplied by RobustIT that i am currently working through⬇️
+
+Introduction to Databases ✅
+
+Microsoft Azure Data Fundamentals (DP-900) ✍🏻 *CURRENTLY STUDYING*
+
+Introduction to Python ⏳
+
+Microsoft Azure AI Fundamentals (AI-900) ⏳
+
+Microsoft Fabric Data Engineer Associate (DP-700) ⏳
+
+CompTIA Data+ (DA0-001) ⏳
+
+Microsoft Azure AI Engineer Associate (AI-102) ⏳
+
+Microsoft Azure Data Scientist Associate (DP-100 ⏳
