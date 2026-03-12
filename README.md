@@ -17,4 +17,4 @@ CompTIA Data+ (DA0-001) ⏳
 
 Microsoft Azure AI Engineer Associate (AI-102) ⏳
 
-Microsoft Azure Data Scientist Associate (DP-100 ⏳
+Microsoft Azure Data Scientist Associate (DP-100) ⏳
